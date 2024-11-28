@@ -1,16 +1,16 @@
 export const navItems = [
-    { label: "Personal", href:"#" },
-    { label: "Business", href:"#" },
+    { label: "Product", href:"#" },
     { label: "Company", href:"#" },
-    { label: "Help", href:"#" },
+    { label: "Support", href:"#" },
+    { label: "Ratings", href:"#" },
+    { label: "Calculator", href:"#"},
 ];
 
 export const navItems_m = [
-    { label: "Personal", href:"#" },
-    { label: "Business", href:"#" },
+    { label: "Product", href:"#" },
     { label: "Company", href:"#" },
-    { label: "Developers", href:"#" },
-    {label: "Contact Us", href:"#" },
-    {label: "Help", href:"#" },
+    { label: "Support", href:"#" },
+    { label: "Ratings", href:"#" },
+    { label: "Calculator", href:"#"},
   
 ];
